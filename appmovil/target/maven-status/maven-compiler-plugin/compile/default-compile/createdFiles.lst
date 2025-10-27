@@ -1,0 +1,8 @@
+com/example/appmovil/AppmovilApplication.class
+com/example/appmovil/repository/UsuarioRepository.class
+com/example/appmovil/model/Usuario.class
+com/example/appmovil/controller/UsuarioController.class
+com/example/appmovil/model/Cupo.class
+com/example/appmovil/service/CupoService.class
+com/example/appmovil/repository/CupoRepository.class
+com/example/appmovil/service/UsuarioService.class
